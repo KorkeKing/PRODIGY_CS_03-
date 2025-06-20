@@ -1,0 +1,19 @@
+.strength {
+    margin-top: 10px;
+    font-weight: bold;
+}
+.weak { color: red; }
+.medium { color: orange; }
+.strong { color: green; }
+
+#password-feedback {
+    font-size: 14px;
+    margin-top: 10px;
+}
+#password-feedback ul {
+    list-style-type: none;
+    padding: 0;
+}
+#password-feedback ul li {
+    margin-bottom: 5px;
+}
